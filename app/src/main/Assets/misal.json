@@ -1,0 +1,74 @@
+[
+  {
+  "foodName": "Misal",
+  "swiggyPrice": "50",
+  "zomatoPrice": "60"
+},
+  {
+    "foodName": "Usal",
+    "swiggyPrice": "55",
+    "zomatoPrice": "60"
+  },
+  {
+    "foodName": "Misal Pav",
+    "swiggyPrice": "70",
+    "zomatoPrice": "79"
+  },
+  {
+    "foodName": "Usal Pav",
+    "swiggyPrice": "65",
+    "zomatoPrice": "69"
+  },
+  {
+    "foodName": "Dahi Misal Pav",
+    "swiggyPrice": "100",
+    "zomatoPrice": "99"
+  },
+  {
+    "foodName": "Dahi Usal Pav",
+    "swiggyPrice": "95",
+    "zomatoPrice": "89"
+  },
+  {
+    "foodName": "Extra Pav",
+    "swiggyPrice": "7",
+    "zomatoPrice": "5"
+  },
+  {
+    "foodName": "Extra Rassa",
+    "swiggyPrice": "15",
+    "zomatoPrice": "19"
+  },
+  {
+    "foodName": "Extra Farsan",
+    "swiggyPrice": "25",
+    "zomatoPrice": "29"
+  },
+  {
+    "foodName": "Lassi",
+    "swiggyPrice": "35",
+    "zomatoPrice": "39"
+  },
+  {
+    "foodName": "Chass",
+    "swiggyPrice": "25",
+    "zomatoPrice": "29"
+  },
+  {
+    "foodName": "Sprite",
+    "swiggyPrice": "30",
+    "zomatoPrice": "30"
+  },
+  {
+    "foodName": "ThumsUp",
+    "swiggyPrice": "30",
+    "zomatoPrice": "30"
+  },
+
+  {
+    "foodName": "Fanta",
+    "swiggyPrice": "30",
+    "zomatoPrice": "30"
+  }
+
+]

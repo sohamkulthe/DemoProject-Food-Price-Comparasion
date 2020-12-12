@@ -1,0 +1,52 @@
+[
+  {
+    "foodName": "Paneer Masala",
+    "swiggyPrice": "185",
+    "zomatoPrice": "180"
+  },
+  {
+    "foodName": "Paneer Tikka",
+    "swiggyPrice": "185",
+    "zomatoPrice": "180"
+  },
+  {
+    "foodName": "Paneer lajawab",
+    "swiggyPrice": "200",
+    "zomatoPrice": "210"
+  },
+  {
+    "foodName": "Panner bhurji",
+    "swiggyPrice": "180",
+    "zomatoPrice": "180"
+  },
+  {
+    "foodName": "Paneer Makhanwala",
+    "swiggyPrice": "185",
+    "zomatoPrice": "180"
+  },
+  {
+    "foodName": "Fried rice",
+    "swiggyPrice": "150",
+    "zomatoPrice": "160"
+  },
+  {
+    "foodName": "Veg Biryani",
+    "swiggyPrice": "180",
+    "zomatoPrice": "180"
+  },
+  {
+    "foodName": "Paneer Biryani",
+    "swiggyPrice": "195",
+    "zomatoPrice": "190"
+  },
+  {
+    "foodName": "Hydrabadi Biryani",
+    "swiggyPrice": "185",
+    "zomatoPrice": "180"
+  },
+  {
+    "foodName": "Veg Biryani",
+    "swiggyPrice": "185",
+    "zomatoPrice": "180"
+  }
+]

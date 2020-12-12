@@ -1,0 +1,73 @@
+[
+  {
+    "foodName": "Margherita",
+    "swiggyPrice": "99",
+    "zomatoPrice": "99"
+  },
+  {
+    "foodName": "Cheese n Corn",
+    "swiggyPrice": "165",
+    "zomatoPrice": "165"
+  },
+  {
+    "foodName": "Onion",
+    "swiggyPrice": "59",
+    "zomatoPrice": "59"
+  },
+  {
+    "foodName": "Garlic Breadsticks",
+    "swiggyPrice": "99",
+    "zomatoPrice": "99"
+  },
+  {
+    "foodName": "Cheese n Tomato",
+    "swiggyPrice": "169",
+    "zomatoPrice": "169"
+  },
+  {
+    "foodName": "Fresh Vegie",
+    "swiggyPrice": "185",
+    "zomatoPrice": "185"
+  },
+  {
+    "foodName": "Double CheeseMargherita",
+    "swiggyPrice": "189",
+    "zomatoPrice": "185"
+  },
+  {
+    "foodName": "Paneer Makhani",
+    "swiggyPrice": "215",
+    "zomatoPrice": "215"
+  },
+  {
+    "foodName": "Paneer And Onion",
+    "swiggyPrice": "95",
+    "zomatoPrice": "95"
+  },
+  {
+    "foodName": "Capsicum",
+    "swiggyPrice": "99",
+    "zomatoPrice": "99"
+  },
+  {
+    "foodName": "Tomato",
+    "swiggyPrice": "109",
+    "zomatoPrice": "109"
+  },
+  {
+    "foodName": "Golden Corn",
+    "swiggyPrice": "89",
+    "zomatoPrice": "89"
+  },
+  {
+    "foodName": "Choco Lava Cake",
+    "swiggyPrice": "99",
+    "zomatoPrice": "99"
+  },
+  {
+    "foodName": "Margherita",
+    "swiggyPrice": "99",
+    "zomatoPrice": "99"
+  }
+
+]

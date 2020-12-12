@@ -1,0 +1,67 @@
+[
+  {
+    "foodName": "Farm Villa Pizza",
+    "swiggyPrice": "205",
+    "zomatoPrice": "200"
+  },
+  {
+    "foodName": "Spring Filling Pizza",
+    "swiggyPrice": "155",
+    "zomatoPrice": "160"
+  },
+  {
+    "foodName": "Margherita Pizza",
+    "swiggyPrice": "115",
+    "zomatoPrice": "110"
+  },
+  {
+    "foodName": "Peri Peri Veg Pizza",
+    "swiggyPrice": "225",
+    "zomatoPrice": "220"
+  },
+  {
+    "foodName": "Chicken Delight Pizza",
+    "swiggyPrice": "205",
+    "zomatoPrice": "200"
+  },
+  {
+    "foodName": "Peri Peri Chicken Pizza",
+    "swiggyPrice": "265",
+    "zomatoPrice": "265"
+  },
+  {
+    "foodName": "LaPinoz Paneer Pizza",
+    "swiggyPrice": "225",
+    "zomatoPrice": "220"
+  },
+  {
+    "foodName": "Mix Grill Pizza",
+    "swiggyPrice": "225",
+    "zomatoPrice": "225"
+  },
+  {
+    "foodName": "Capsicum Pizza",
+    "swiggyPrice": "119",
+    "zomatoPrice": "110"
+  },
+  {
+    "foodName": "Onion Pizza",
+    "swiggyPrice": "110",
+    "zomatoPrice": "110"
+  },
+  {
+    "foodName": "Paneer Pizza",
+    "swiggyPrice": "125",
+    "zomatoPrice": "120"
+  },
+  {
+    "foodName": "Spring Filling Pizza",
+    "swiggyPrice": "155",
+    "zomatoPrice": "160"
+  },
+  {
+    "foodName": "Farm Pizza",
+    "swiggyPrice": "165",
+    "zomatoPrice": "150"
+  }
+]

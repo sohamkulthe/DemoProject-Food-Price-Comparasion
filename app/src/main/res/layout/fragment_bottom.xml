@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bottom">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:layout_margin="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:src="@drawable/ic_home_black_24dp"
+        android:id="@+id/home_buttonFragment"
+        />
+    <ImageView
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_weight="1"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/ic_restaurant_menu_black_24dp"
+        android:id="@+id/reasturantLis_buttonFragment"
+        />
+    <ImageView
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/ic_person_black_24dp"
+        android:id="@+id/acc_buttonFragment"
+        android:layout_weight="1"
+        />
+</LinearLayout>

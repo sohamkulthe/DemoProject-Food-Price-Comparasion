@@ -1,0 +1,92 @@
+[
+  {
+    "foodName": "Fried Rice",
+    "swiggyPrice": "119",
+    "zomatoPrice": "119"
+  },
+  {
+    "foodName": "Veg Fried Rice",
+    "swiggyPrice": "120",
+    "zomatoPrice": "130"
+  },
+  {
+    "foodName": "Paneer Chilli",
+    "swiggyPrice": "160",
+    "zomatoPrice": "159"
+  },
+  {
+    "foodName": "Paneer Manchurian",
+    "swiggyPrice": "160",
+    "zomatoPrice": "150"
+  },
+  {
+    "foodName": "Fried Rice",
+    "swiggyPrice": "119",
+    "zomatoPrice": "119"
+  },
+  {
+    "foodName": "Mashroom Chilli",
+    "swiggyPrice": "150",
+    "zomatoPrice": "150"
+  },
+  {
+    "foodName": "Paneer Manchurian Chilli",
+    "swiggyPrice": "170",
+    "zomatoPrice": "179"
+  },
+  {
+    "foodName": " Manchurian",
+    "swiggyPrice": "100",
+    "zomatoPrice": "110"
+  },
+  {
+    "foodName": "Veg Hakka Noodles",
+    "swiggyPrice": "150",
+    "zomatoPrice": "159"
+  },
+  {
+    "foodName": "Veg Singapore Noodles",
+    "swiggyPrice": "180",
+    "zomatoPrice": "190"
+  },
+  {
+    "foodName": "Hong kong Noodles",
+    "swiggyPrice": "180",
+    "zomatoPrice": "189"
+  },
+  {
+    "foodName": "Veg Singapore Rice",
+    "swiggyPrice": "160",
+    "zomatoPrice": "150"
+  },
+  {
+    "foodName": "Hong Kong Fried Rice",
+    "swiggyPrice": "189",
+    "zomatoPrice": "189"
+  },
+  {
+    "foodName": "Chicken Fried Rice",
+    "swiggyPrice": "180",
+    "zomatoPrice": "180"
+  },
+  {
+    "foodName": "Paneer Fried Rice",
+    "swiggyPrice": "169",
+    "zomatoPrice": "179"
+  },
+  {
+    "foodName": "Paneer Manchurian",
+    "swiggyPrice": "160",
+    "zomatoPrice": "150"
+  },
+  {
+    "foodName": "Manchurian Soup",
+    "swiggyPrice": "120",
+    "zomatoPrice": "129"
+  },
+  {
+    "foodName": "Veg Manchurian Soup",
+    "swiggyPrice": "100",
+    "zomatoPrice": "100"
+  }
+]

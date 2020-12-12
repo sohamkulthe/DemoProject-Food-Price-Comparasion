@@ -1,0 +1,68 @@
+[
+  {
+    "foodName": "Fried Chilli Cheese Veg Momos",
+    "swiggyPrice": "72",
+    "zomatoPrice": "60"
+  },
+  {
+    "foodName": "Steamed Chilli Cheese Veg Momos",
+    "swiggyPrice": "66",
+    "zomatoPrice": "55"
+  },
+  {
+    "foodName": "Simply Veg Momos",
+    "swiggyPrice": "66",
+    "zomatoPrice": "60"
+  },
+  {
+    "foodName": "Fried Simply Veg Momos",
+    "swiggyPrice": "69",
+    "zomatoPrice": "60"
+  },
+  {
+    "foodName": "Steamed Simply Veg Momos",
+    "swiggyPrice": "39",
+    "zomatoPrice": "35"
+  },
+  {
+    "foodName": "Steamed Chicken Chilli Cheese Momos",
+    "swiggyPrice": "82",
+    "zomatoPrice": "70"
+  },
+  {
+    "foodName": "Fried Chicken Chilli Cheese Momos",
+    "swiggyPrice": "92",
+    "zomatoPrice": "80"
+  },
+  {
+    "foodName": "Fried  Veg Momos",
+    "swiggyPrice": "70",
+    "zomatoPrice": "66"
+  },
+  {
+    "foodName": "Steamed Chilli Cheese Veg Momos",
+    "swiggyPrice": "66",
+    "zomatoPrice": "55"
+  },
+  {
+    "foodName": "Fried Chilli Cheese Veg Momos",
+    "swiggyPrice": "72",
+    "zomatoPrice": "60"
+  },
+  {
+    "foodName": "Steamed Cheese Veg Momos",
+    "swiggyPrice": "66",
+    "zomatoPrice": "55"
+  },
+  {
+    "foodName": "Fried Chilli Cheese Veg Momos",
+    "swiggyPrice": "72",
+    "zomatoPrice": "60"
+  },
+  {
+    "foodName": "Steamed Chilli Cheese Veg Momos",
+    "swiggyPrice": "66",
+    "zomatoPrice": "55"
+  }
+
+]

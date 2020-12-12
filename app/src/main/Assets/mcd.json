@@ -1,0 +1,62 @@
+[
+  {
+    "foodName": "McCafe Americano",
+    "swiggyPrice": "144",
+    "zomatoPrice": "150"
+  },
+  {
+    "foodName": "McCafe-Ice Cofee",
+    "swiggyPrice": "165",
+    "zomatoPrice": "160"
+  },
+  {
+    "foodName": "Alo tikki",
+    "swiggyPrice": "30",
+    "zomatoPrice": "35"
+  },
+  {
+    "foodName": "McSpicy Paneer",
+    "swiggyPrice": "140",
+    "zomatoPrice": "150"
+  },
+  {
+    "foodName": "Paneer wrap",
+    "swiggyPrice": "205",
+    "zomatoPrice": "200"
+  },
+  {
+    "foodName": "Fries",
+    "swiggyPrice": "50",
+    "zomatoPrice": "60"
+  },
+  {
+    "foodName": "Veg Maharaja Meal",
+    "swiggyPrice": "380",
+    "zomatoPrice": "350"
+  },
+  {
+    "foodName": "Paneer wrap Meal",
+    "swiggyPrice": "255",
+    "zomatoPrice": "250"
+  },
+  {
+    "foodName": "Coke",
+    "swiggyPrice": "50",
+    "zomatoPrice": "50"
+  },
+  {
+    "foodName": "Sprite",
+    "swiggyPrice": "75",
+    "zomatoPrice": "80"
+  },
+  {
+    "foodName": "Fanta",
+    "swiggyPrice": "75",
+    "zomatoPrice": "80"
+  },
+  {
+    "foodName": "Thums Up",
+    "swiggyPrice": "75",
+    "zomatoPrice": "75"
+  }
+]
